@@ -1,5 +1,11 @@
+import AllTasks from "./components/AllTasks";
+
 const App = () => {
-  return <h1>Test</h1>;
+  return (
+    <div className="all-tasks">
+      <AllTasks />
+    </div>
+  );
 };
 
 export default App;

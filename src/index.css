@@ -1,1 +1,12 @@
+* {
+  box-sizing: border-box;
+}
 
+body {
+  background-color: #0caba8;
+  color: azure;
+}
+
+.all-tasks {
+  margin-top: 50px;
+}
